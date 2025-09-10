@@ -2,6 +2,8 @@
 
 # Rescate-de-Datos-CriticosEnunciado:
 
+https://github.com/Inigo-Alvarez/Rescate-de-Datos-Criticos/tree/main
+
 Imagina que eres el responsable de sistemas en una empresa que gestiona datos médicos sensibles. A las 8:00 de la mañana, se detecta un ataque de ransomware que ha comprometido parcialmente la infraestructura. El equipo de seguridad ha logrado aislar el ataque, pero solo tienes 120 minutos para rescatar los datos más críticos antes de que el sistema se reinicie automáticamente y se pierdan.
 
 Dispones de un conjunto de tareas que deben ejecutarse en orden lógico, algunas en paralelo, y otras dependen de recursos limitados (como personal técnico o acceso físico a servidores).
